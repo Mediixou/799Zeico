@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @799Zeico
+- 👋 Hi, I’m @mediixou_off
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-799Zeico/799Zeico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mediixou_off/mediixou_off is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
