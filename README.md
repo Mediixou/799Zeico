@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @mediixou_off
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Salut, je suis @mediixou_off
+
+- 👀 Je suis passionné par le developpement !
+- 🌱 Je suis actuellement en train d'apprendre Htmel, CSS et EJS
+- 💞️ Je recherche à collaborer sur d'autre projet Cool
+- 📫 Comment me contacter :
+  - Email : support@mediixou.online
+  - Site web : https://mediixou.online
 
 <!---
-Mediixou/mediixou_off is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Mediixou/mediixou_off est un dépôt ✨ spécial ✨ car ce fichier `README.md` apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
 --->
